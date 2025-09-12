@@ -11,5 +11,5 @@ Proporcionar información detallada sobre ingresos, casos y distribución de ex�
 ### -Ubicación en la interfaz: 
 Desde el panel principal del usuario propietario, selecciona Análisis en el menú lateral.
 
-![Inicio](/img/img_solhub/exp.pro.1.3.1.estadisticas/12.1.png)
+![Inicio](/img/img_solhub/exp.pro.1.3.1.estadisticas/12.1.webp)
 

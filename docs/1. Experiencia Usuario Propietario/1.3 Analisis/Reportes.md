@@ -6,7 +6,7 @@ sidebar_position: 2
 # Reportes
 
 ### Vista general.
-![Dashboard](/img/img_solhub/exp.pro.1.3.2.reportes/0.png)
+![Dashboard](/img/img_solhub/exp.pro.1.3.2.reportes/0.webp)
 
 ### -Funciones principales.
 
@@ -18,7 +18,7 @@ Gestionar solicitudes de inmunoreacciones y su estado de pago.
 ### -Pasos para usar
 
 1. Selecciona “Análisis”, y luego “Reportes”.
-![Dashboard](/img/img_solhub/exp.pro.1.3.2.reportes/1.png)
+![Dashboard](/img/img_solhub/exp.pro.1.3.2.reportes/1.webp)
 
 2. Filtra por código de caso, médico o tipo de estudio.
 
