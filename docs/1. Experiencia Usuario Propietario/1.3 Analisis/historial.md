@@ -5,6 +5,11 @@ sidebar_position: 4
 
 # Historial 
 
+### -Ubicación en la interfaz:
+
+Selecciona "Análisis", y luego “Historial”.
+![Dashboard](/img/img_solhub/exp.pro.1.4.historial/1.webp)
+
 ### -Función principal:
 
 - Encontrar todos los cambios registrados en el sistema por medio de una barra de búsqueda o por los filtros de búsqueda.
@@ -22,7 +27,7 @@ sidebar_position: 4
 - Ejemplo: 
 ![Dashboard](/img/img_solhub/exp.pro.1.4.historial/3.webp)
 
-3. Tambien puedes usar filtros por fecha; tipo de acción (Ediciones, Eliminaciones, Creaciones); y por entidades (Pacientes y Casos Médicos).
+3. También puedes usar filtros por fecha; tipo de acción (Ediciones, Eliminaciones, Creaciones); y por entidades (Pacientes y Casos Médicos).
 ![Dashboard](/img/img_solhub/exp.pro.1.4.historial/4.webp)
 
 - Ejemplo:

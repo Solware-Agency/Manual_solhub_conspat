@@ -5,13 +5,13 @@ sidebar_position: 5
 
 # Historial
 
-### -Objetivo:
-Registrar todas las acciones realizadas en el sistema para fines de control y auditoría.
-![Dashboard](/img/img_solhub/exp.recep.2.4.historial/0.webp)
-
 ### -Ubicación en la interfaz:
 Selecciona Historial en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.recep.2.4.historial/1.webp)
+
+### -Objetivo:
+Registrar todas las acciones realizadas en el sistema para fines de control y auditoría.
+![Dashboard](/img/img_solhub/exp.recep.2.4.historial/0.webp)
 
 ### -Funciones principales:
 
@@ -24,7 +24,7 @@ Selecciona Historial en el menú lateral.
 3. Filtrar por fecha o tipo de acción.
 ![Dashboard](/img/img_solhub/exp.recep.2.4.historial/4.webp)
 
-### -Pasos para utilizar este modulo:
+### -Pasos para utilizar este módulo:
 
 1. Selecciona en la barra lateral "Historial".
 ![Dashboard](/img/img_solhub/exp.recep.2.4.historial/1.webp)
@@ -35,4 +35,4 @@ Selecciona Historial en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.recep.2.4.historial/5.webp)
 
 ##### -Ejemplo 2:
-![Dashboard](/img/img_solhub/exp.recep.2.4.historial/5.webp)
+![Dashboard](/img/img_solhub/exp.recep.2.4.historial/6.webp)

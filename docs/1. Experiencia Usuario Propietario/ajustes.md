@@ -5,16 +5,15 @@ sidebar_position: 6
 
 # Ajustes
 
-### Objetivo:
-
- Personalizar la configuración de la cuenta y parámetros de seguridad.
-![Dashboard](/img/img_solhub/exp.pro.1.6.ajustes/1.webp)
-
-
 ### Ubicación en la interfaz:
 
  Desde el panel principal, seleccione Ajustes en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.pro.1.6.ajustes/2.webp)
+
+### Objetivo:
+
+ Personalizar la configuración de la cuenta y parámetros de seguridad.
+![Dashboard](/img/img_solhub/exp.pro.1.6.ajustes/1.webp)
 
 ### -Funciones principales
 

@@ -5,16 +5,15 @@ sidebar_position: 5
 
 # Usuarios
 
-### -Objetivo:
-
- Gestionar los usuarios registrados en la aplicación y definir sus roles.
-![Dashboard](/img/img_solhub/exp.pro.1.5.usuarios/1.webp)
-
 ### -Ubicación en la interfaz:
 
 Desde el panel principal, seleccione “Usuarios" en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.pro.1.5.usuarios/2.webp)
 
+### -Objetivo:
+
+ Gestionar los usuarios registrados en la aplicación y definir sus roles.
+![Dashboard](/img/img_solhub/exp.pro.1.5.usuarios/1.webp)
 
 ### -Funciones principales:
 
@@ -51,7 +50,7 @@ Ejemplo.
 Ejemplo.
 ![Dashboard](/img/img_solhub/exp.pro.1.5.usuarios/7.webp)
 
-### -Pasos para usar.
+### -Pasos para usar este modulo:
 
 
 1. Haz clic en Usuarios.

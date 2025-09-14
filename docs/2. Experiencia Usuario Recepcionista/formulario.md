@@ -5,13 +5,13 @@ sidebar_position: 1
 
 # Formulario
 
-### -Objetivo:
-Registrar nuevos pacientes, asociarles un servicio médico y gestionar los pagos correspondientes.
-![Dashboard](/img/img_solhub/exp.recep.2.1.formulario/0.webp)
-
 ### -Ubicación en la interfaz:
 Desde el panel principal, seleccione Formulario en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.recep.2.1.formulario/1.webp)
+
+### -Objetivo:
+Registrar nuevos pacientes, asociarles un servicio médico y gestionar los pagos correspondientes.
+![Dashboard](/img/img_solhub/exp.recep.2.1.formulario/0.webp)
 
 ### -Funciones principales:
 
@@ -25,9 +25,9 @@ Desde el panel principal, seleccione Formulario en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.recep.2.1.formulario/4.webp)
 
 
-### -Pasos para usar este modulo:
+### -Pasos para usar este módulo:
 
-1. Selecciona el modulo "Formulario".
+1. Selecciona el módulo "Formulario".
 ![Dashboard](/img/img_solhub/exp.recep.2.1.formulario/2.webp)
 
 2. Completa las casillas de cada dato personal del paciente.

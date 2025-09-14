@@ -5,27 +5,27 @@ sidebar_position: 5.1
 
 # Chat IA
 
-### Objetivo:
-Brindar apoyo inmediato a los usuarios para resolver dudas y guiar en el uso de las funcionalidades del sistema.
-![Dashboard](/img/img_solhub/exp.recep.2.5.1.agente/0.webp)
+### Ubicación en la interfaz:
 
-
-### Ubicación:
-Selecciona el modulo llamado "Chat IA" que esta de abajo en la esquina
-derecha del modulo que hayas
+Selecciona el módulo llamado "Chat IA" que está de abajo en la esquina
+derecha del módulo que hayas
 seleccionado.
 ![Dashboard](/img/img_solhub/exp.recep.2.5.1.agente/1.webp)
 
 - Ejemplo: 
 
-1. Seleccionamos el modulo "Formulario"
+1. Seleccionamos el módulo "Formulario"
 ![Dashboard](/img/img_solhub/exp.recep.2.5.1.agente/3.webp)
 
-2. En la esquina de abajo del mismo modulo veremos el boton flotante 
+2. En la esquina de abajo del mismo módulo veremos el botón flotante 
 del Chat de IA
 ![Dashboard](/img/img_solhub/exp.recep.2.5.1.agente/2.webp)
 
-### Funcionalidad del Modulo:
+### Objetivo:
+Brindar apoyo inmediato a los usuarios para resolver dudas y guiar en el uso de las funcionalidades del sistema.
+![Dashboard](/img/img_solhub/exp.recep.2.5.1.agente/0.webp)
+
+### Funcionalidad del Módulo:
 
 - Responder preguntas frecuentes sobre el uso del sistema.
 

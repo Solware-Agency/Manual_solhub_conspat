@@ -5,6 +5,10 @@ sidebar_position: 1
 
 # Estadísticas
 
+### -Ubicación en la interfaz:
+1. Selecciona “Análisis”, luego “Estadísticas”.
+![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/12.webp)
+
 ### -Vista general.
 ![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/1.webp)
 
@@ -66,7 +70,7 @@ Además de la tendencia mensual de los ingresos.
 Podrás también observar la tendencia mensual de los pacientes. 
 ![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/17.webp)
 
-- Casos Completados: Observaras el los casos pagados o los ingresos por casos pagados.
+- Casos Completados: Observarás los casos pagados o los ingresos por casos pagados.
 ![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/18.webp)
 
 - Casos incompletos: Brindará el monto total pendiente y porcentaje de avance.
@@ -75,7 +79,7 @@ Podrás también observar la tendencia mensual de los pacientes.
 También podrás visualizar las ganancias totales de cada mes seleccionando el mes a auditar en la sección de Tendencia de Ingresos.
 ![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/20.webp)
 
--Ejemplo:
+- Ejemplo:
 ![Dashboard](/img/img_solhub/exp.pro.1.3.1.estadisticas/21.webp)
 
 Como podemos observar, al seleccionar el mes de mayo, en la sección de “Distribución por Sede”, se visualizará la ganancia total del mes de mayo con las ganancias de cada sede ese mismo mes.

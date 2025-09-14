@@ -21,7 +21,12 @@ export default function HomepageHero() {
             href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ28TbL6x8Jj7yLpzgpH2OQ1MV5t5zdvwYRbjCTVKTjj-pNNzSSZ3mGSpguP7Sv4AksuyRdav2bJ"
             target="_blank"
             rel="noopener noreferrer">
-            Agenda tu Cita 📅
+            Programa tu Cita 📅
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/demo">
+            Visualizar Demo 🚀
           </Link>
         </div>
       </div>

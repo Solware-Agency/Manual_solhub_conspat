@@ -75,7 +75,7 @@
 
 /* Personalización del footer */
 .footer {
-  background-color: rgb(88 28 135 / 0.3) !important; /* Color personalizado para el footer */
+  background-color: rgb(88 28 135 / 0.9) !important; /* Color personalizado para el footer */
 }
 
 .footer__title {
@@ -239,4 +239,35 @@
   font-weight: 700 !important;
   margin-bottom: 2rem !important;
 }
+
+/* Márgenes más naturales para imágenes */
+.markdown img {
+  display: block;
+  margin: 1rem auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+}
+
+/* Márgenes para tarjetas de contenido */
+.markdown .card, .markdown .feature {
+  margin: 1rem 0 !important;
+  padding: 1rem !important;
+}
+
+/* Márgenes para secciones */
+.section {
+  margin: 1.5rem 0 !important;
+  padding: 0.5rem !important;
+}
+
+/* Contenedores principales */
+.container {
+  margin: 0 auto !important;
+  padding: 0 1rem !important;
+  max-width: 100% !important;
+}
+
+
+
 

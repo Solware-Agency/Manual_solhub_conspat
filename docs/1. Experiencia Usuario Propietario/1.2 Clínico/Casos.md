@@ -5,14 +5,14 @@ sidebar_position: 1
 
 # Casos
 
+### -Ubicación en la interfaz:
+Selecciona primero "Clínico", y luego "Casos" en el menú lateral.
+![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/1.webp)
+
 ### -Objetivo:
 Consultar y gestionar los casos de laboratorio (completados o pendientes).
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/0.webp)
 
-### -Ubicación en la interfaz:
-Selecciona Registro en el menú lateral.
-![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/1.webp)
- 
 ### -Funciones: 
 
 - Mostrar la lista completa de todos los casos médicos registrados, con:
@@ -29,9 +29,9 @@ Selecciona Registro en el menú lateral.
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/5.0.webp)
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/5.1.webp)
 
-### -Pasos para usar el modulo “Casos”:
+### -Pasos para usar el módulo "Casos":
  
-1. Selecciona “Clínico”, despues “Casos”.
+1. Selecciona "Clínico", después "Casos".
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/1.webp)
 
 
@@ -39,7 +39,7 @@ Selecciona Registro en el menú lateral.
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/2.webp)
 
 
-3. Usa el botón “Acciones” para ejecutar las acciones disponibles:
+3. Usa el botón “Acciones” para ejecutar los comandos disponibles:
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/3.webp)
 
 Si seleccionas la opción “Ver”, se generarán los detalles del Caso:
@@ -69,7 +69,7 @@ Selecciona “Editar” para poder cambiar algún campo del Caso Médico selecci
 - Modificar algún dato de la información financiera del paciente. 
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/13.webp)
 
-Cuando actualices la información, puedes agregar el metodo de pago con que se concreto el mismo.
+Cuando actualices la información, puedes agregar el método de pago con que se concretó el mismo.
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/14.webp)
 
 - Y actualizar los comentarios del caso. 
@@ -78,10 +78,10 @@ Cuando actualices la información, puedes agregar el metodo de pago con que se c
 Igualmente existe la opción de “Eliminar” el caso.
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/16.webp)
 
-- Si finalizaste en modificar los cambios, selecciona la opción “Guardar Cambios”, pero si decides no guardar los cambios, seleccione “Cancelar”.
+- Si finalizaste en modificar los cambios, selecciona la opción "Guardar Cambios", pero si decides no guardar los cambios, selecciona "Cancelar".
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/17.webp)
 
-Selecciona la opción “Historial” para observar los cambios que sean realizado
+Selecciona la opción "Historial" para observar los cambios que sean realizados
 ![Inicio](/img/img_solhub/exp.pro.1.2.1.casos/18.webp)
 
 - Si te arrepientes de visualizar el historial de cambios, presiona “Ocultar”. 
@@ -99,52 +99,52 @@ Si seleccionas la opción “Generar”, podrás generar un reporte del caso mé
 - Primero selecciona “Rellenar los Datos”.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/23.0.webp)
 
-- Despues selecciona "Marcar como Completado".
+- Después selecciona "Marcar como Completado".
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/23.1.webp)
 
-- Automaticamente te enviara un mensaje confirmando que ya esta completado.
+- Automáticamente te enviará un mensaje confirmando que ya está completado.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/23.2.webp)
 
-- Enseguida te arroja a otra venta con tres opciones: "Revisar Documento"; "Marcar como completado"; y "Devolver a Pendiente".
+- Enseguida te arroja a otra sección con tres opciones: "Revisar Documento"; "Marcar como completado"; y "Devolver a Pendiente".
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/23.3.webp)
 
-- Primero seleccionemos para ver como funciona la opcion "Revisar Documento".
+- Primero seleccionemos para ver como funciona la opción "Revisar Documento".
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/23.4.webp)
 
-- Te enviara a otra ventana donde de veras solicitar acceso al usuario principal. Tendras tres opciones a escoger: Lector (solo puedes leer el documento); Comentarista (agregas comentarios al documento); y Editor (puedes modificar cualquier parte del documento).
+- Te enviará a otra ventana donde deberás solicitar acceso al usuario principal. Tendrás tres opciones a escoger: Lector (solo puedes leer el documento); Comentarista (agregas comentarios al documento); y Editor (puedes modificar cualquier parte del documento).
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/24.webp)
 
 En este caso, seleccionaremos "Lector" y seleccionamos "Solicitar Acceso" para poder leer el documento. Si deseas puedes dejar un comentario adicional en la casilla de comentarios.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/25.webp)
 
-- Una vez enviado la solicitud, te llegara un correo si tu solicitud fue aceptada para poder ejecutar la opción solicitada.
+- Una vez enviada la solicitud, te llegará un correo si tu solicitud fue aceptada para poder ejecutar la opción solicitada.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/25.webp)
 
-- Pero si seleccionas "Marcar como Aprobado", te pasara a la proxima ventana.
+- Pero si seleccionas "Marcar como Aprobado", te pasará a la próxima sección.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/25.1.webp)
 
-- Y te enviara el proximo mensaje.
+- Y te enviará este mensaje.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/25.2.webp)
 
 - Ahora selecciona "Descargar PDF" para poder visualizar el documento. 
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/27.webp)
 
-- De manera inmediata te enviara un mensaje diciendo lo siguiente:
+- De manera inmediata te enviará un mensaje diciendo lo siguiente:
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/27.1.webp)
 
-- Y listo, podras visualizar el reporte a detalle del caso medico.
+- Y listo, podrás visualizar el reporte a detalle del caso médico.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/28.webp)
 
-- Para cuestiones de veracidad, el PDF dispondra de un codigo QR para verificar si el documento es verdadero o es falso; y el PDF descargado, te brindara a detalle toda la informacion del caso medico que quieras revisar.
+- Por cuestiones de veracidad, el PDF dispondrá de un código QR para verificar si el documento es verdadero o falso; y el PDF descargado, te brindará a detalle toda la información del caso médico que quieras revisar.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/29.webp)
 
-- Pero si te equivocas de caso medico y no quieres descargar el pdf, solo selecciona "Terminar Proceso" para finalizar.
+- Pero si te equivocas de caso médico y no quieres descargar el PDF, solo selecciona "Terminar Proceso" para finalizar.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/30.webp)
 
-- Por ultimo, si regresas a la sección "Autorizar", tendras disponible la opcion "Devolver a Pendiente".
+- Por último, si regresas a la sección "Autorizar", tendrás disponible la opción "Devolver a Pendiente".
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/30.1.webp)
 
-- Si lo seleccionadas, cancelaras la aprobacion del documento.
+- Si lo seleccionas, cancelarás la aprobación del documento.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/30.2.webp)
 
 4. Usa los Filtros de Búsqueda:
@@ -155,7 +155,7 @@ En este caso, seleccionaremos "Lector" y seleccionamos "Solicitar Acceso" para p
 - Presiona “Casos Pendientes” para visualizar todos los casos incompletos.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/32.webp)
 
-- Selecciona “PDF Pendientes” para mostrar todos los casos con sin archivo pdf.
+- Selecciona “PDF Pendientes” para mostrar todos los casos sin archivo pdf.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/33.webp)
 
 - Puedes filtrar dependiendo del “Tipo de Examen” como: Biopsia, Citología, o Inmunohistoquímica. Ejemplo:  
@@ -164,13 +164,13 @@ En este caso, seleccionaremos "Lector" y seleccionamos "Solicitar Acceso" para p
 - O puedes filtrar por el “Estatus de Documento” que son: “Faltante”, “Pendiente”, y “Aprobado”. Ejemplo: 
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/35.webp)
 
-- Seleciona "Filtros" para utilizar otros filtros de busqueda:
+- Selecciona "Filtros" para utilizar otros filtros de búsqueda:
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/36.webp)
 
-- Los filtros existentes son: Estado de pago, Sede, Fecha de Registro, Filtrar por Medicos, y por PDF Disponibles.
+- Los filtros existentes son: Estado de pago, Sede, Fecha de Registro, Filtrar por Médicos, y por PDF Disponibles.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/37.webp)
 
-- Una vez ya escogidos los filtros, seleciona "Aplicar Filtros" para ejecutar los mismos.
+- Una vez ya escogidos los filtros, selecciona "Aplicar Filtros" para ejecutar los mismos.
 ![Dashboard](/img/img_solhub/exp.pro.1.2.1.casos/38.webp)
 
 -Ejemplo:
