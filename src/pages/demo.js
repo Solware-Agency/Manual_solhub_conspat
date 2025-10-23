@@ -94,7 +94,7 @@ export default function Demo() {
           </p>
           
           <a 
-            href="https://panel.solware.agency/" 
+            href="https://preview.solhub.agency/" 
             target="_blank" 
             rel="noopener noreferrer"
             style={{

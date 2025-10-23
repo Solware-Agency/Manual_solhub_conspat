@@ -25,4 +25,4 @@ Para registrarte solo tienes que colocar un correo electrónico, un nombre de us
 
 ![Dashboard de Inicio](/img/img_solhub/1.solhub/3.webp)
 
-Existen dos tipos de usuario que son: Propietario, y Recepcionista. 
+Existen dos tipos de usuario que son: Propietario, Recepcionista, y Médico (Residente y). 
