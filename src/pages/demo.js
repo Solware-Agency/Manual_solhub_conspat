@@ -65,7 +65,7 @@ export default function Demo() {
             justifyContent: 'center'
           }}>
             <img 
-              src="/img/Logo_Morado_Solware.svg" 
+              src="/img/SolHub_ISOTIPO_ORIG.svg" 
               alt="Solware Logo" 
               style={{
                 width: '100%',

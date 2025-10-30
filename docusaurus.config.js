@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SolHub',
   tagline: 'Tu aplicacion web ideal para laboratorios patológicos',
-  favicon: 'img/Logo_Morado_Solware.svg',
+  favicon: 'img/SolHub_ISOTIPO_ORIG.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -75,7 +75,7 @@ const config = {
         title: 'Inicio',
         logo: {
           alt: 'Solware Logo',
-          src: 'img/Logo_Morado_Solware.svg',
+          src: 'img/SolHub_ISOTIPO_ORIG.svg',
         },
         items: [
           {
