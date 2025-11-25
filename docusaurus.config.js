@@ -81,27 +81,27 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://www.solhub.agency/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500;">SolHub</a>',
+            value: '<a href="https://www.solhub.agency/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color=\'#41e2b8\'" onmouseout="this.style.color=\'inherit\'">SolHub</a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="/docs/Inicio" style="color: inherit; text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color=\'#a855f7\'" onmouseout="this.style.color=\'inherit\'">Manual</a>',
+            value: '<a href="/docs/Inicio" style="color: inherit; text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color=\'#41e2b8\'" onmouseout="this.style.color=\'inherit\'">Manual</a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ28TbL6x8Jj7yLpzgpH2OQ1MV5t5zdvwYRbjCTVKTjj-pNNzSSZ3mGSpguP7Sv4AksuyRdav2bJ" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500;">Agenda tu Cita</a>',
+            value: '<a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ28TbL6x8Jj7yLpzgpH2OQ1MV5t5zdvwYRbjCTVKTjj-pNNzSSZ3mGSpguP7Sv4AksuyRdav2bJ" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color=\'#41e2b8\'" onmouseout="this.style.color=\'inherit\'">Agenda tu Cita</a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="/demo" style="color: inherit; text-decoration: none; font-weight: 500;">Ver Demostración</a>',
+            value: '<a href="/demo" style="color: inherit; text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color=\'#41e2b8\'" onmouseout="this.style.color=\'inherit\'">Ver Demostración</a>',
           },
           {
             type: 'html',
             position: 'right',
-            value: '<a href="https://www.solware.agency/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500; margin-right: 15px;">Solware</a>',
+            value: '<a href="https://www.solware.agency/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: 500; margin-right: 15px; transition: color 0.3s ease;" onmouseover="this.style.color=\'#41e2b8\'" onmouseout="this.style.color=\'inherit\'">Solware</a>',
           },
         ],
       },

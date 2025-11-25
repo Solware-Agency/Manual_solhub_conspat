@@ -6,26 +6,26 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #a855f7;
-  --ifm-color-primary-dark: #a855f7;
-  --ifm-color-primary-dark: #a855f7;
-  --ifm-color-primary-darkest: #a855f7;
-  --ifm-color-primary-light: #a855f7;
-  --ifm-color-primary-lighter:#a855f7;
-  --ifm-color-primary-lightest: #a855f7;
+  --ifm-color-primary: #4c87ff;
+  --ifm-color-primary-dark: #29536b;
+  --ifm-color-primary-darker: #29536b;
+  --ifm-color-primary-darkest: #07004d;
+  --ifm-color-primary-light: #4c87ff;
+  --ifm-color-primary-lighter: #41e2b8;
+  --ifm-color-primary-lightest: #41e2b8;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #a855f7;
-  --ifm-color-primary-dark: #a855f7;
-  --ifm-color-primary-darker:#a855f7;
-  --ifm-color-primary-darkest: #a855f7;
-  --ifm-color-primary-light: #a855f7;
-  --ifm-color-primary-: #a855f7;
-  --ifm-color-primary-lightes: #a855f7;
+  --ifm-color-primary: #4c87ff;
+  --ifm-color-primary-dark: #29536b;
+  --ifm-color-primary-darker: #29536b;
+  --ifm-color-primary-darkest: #07004d;
+  --ifm-color-primary-light: #4c87ff;
+  --ifm-color-primary-lighter: #41e2b8;
+  --ifm-color-primary-lightest: #41e2b8;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -75,7 +75,7 @@
 
 /* Personalización del footer */
 .footer {
-  background-color: rgb(88 28 135 / 0.9) !important; /* Color personalizado para el footer */
+  background-color: #07004d !important; /* Color personalizado para el footer */
 }
 
 .footer__title {
@@ -94,12 +94,20 @@
   color: #e0e0e0 !important;
 }
 
+/* Estilos para todos los enlaces de la navbar - hover */
+.navbar__item a:hover,
+.navbar__brand:hover {
+  color: #41e2b8 !important;
+}
+
 /* Estilos para los enlaces personalizados de la navbar */
 .navbar__item a[href*="calendar.google.com"]:hover,
 .navbar__item a[href*="panel.solware.agency"]:hover,
 .navbar__item a[href*="www.solware.agency"]:hover,
-.navbar__item a[href*="www.solhub.agency"]:hover {
-  color: #a855f7 !important;
+.navbar__item a[href*="www.solhub.agency"]:hover,
+.navbar__item a[href*="/docs/"]:hover,
+.navbar__item a[href*="/demo"]:hover {
+  color: #41e2b8 !important;
 }
 
 /* Íconos para los enlaces del footer */
@@ -123,7 +131,7 @@
 }
 
 .pagination-nav__label {
-  font-weight: 600 !important;    /* “Previous / Next” más fuerte */
+  font-weight: 600 !important;    /* "Previous / Next" más fuerte */
   margin-bottom: 0.3rem;          /* separa de la segunda línea */
 }
 
@@ -210,26 +218,26 @@
 /* Efecto neon parpadeante para el robot */
 @keyframes neonBlink {
   0% {
-    filter: drop-shadow(0 0 5px #a855f7) drop-shadow(0 0 10px #a855f7);
+    filter: drop-shadow(0 0 5px #41e2b8) drop-shadow(0 0 10px #4c87ff);
     opacity: 1;
   }
   50% {
-    filter: drop-shadow(0 0 15px #a855f7) drop-shadow(0 0 25px #a855f7) drop-shadow(0 0 35px #a855f7);
+    filter: drop-shadow(0 0 15px #41e2b8) drop-shadow(0 0 25px #4c87ff) drop-shadow(0 0 35px #41e2b8);
     opacity: 0.8;
   }
   100% {
-    filter: drop-shadow(0 0 5px #a855f7) drop-shadow(0 0 10px #a855f7);
+    filter: drop-shadow(0 0 5px #41e2b8) drop-shadow(0 0 10px #4c87ff);
     opacity: 1;
   }
 }
 
 /* Footer social links hover effect */
 .footer-social-link:hover {
-  color: #a855f7 !important;
+  color: #41e2b8 !important;
 }
 
 .footer-social-link:hover svg {
-  fill: #a855f7 !important;
+  fill: #41e2b8 !important;
 }
 
 /* Center footer title */
@@ -267,7 +275,3 @@
   padding: 0 1rem !important;
   max-width: 100% !important;
 }
-
-
-
-
