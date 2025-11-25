@@ -105,8 +105,8 @@ Si seleccionas la opción “Generar”, podrás generar un reporte del caso mé
 ![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/13.webp)
 
 - SI todavia no lo ha aprovado, solo podras revisar el documento:
-![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/12.2.1.webp)
-![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/12.2.2.webp)
+![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/12.1.1.webp)
+![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/12.1.2.webp)
 
 - Una vez aprobada la solicitud, podras tanto visualizar el documento, como descargarlo.
 ![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/14.webp)
