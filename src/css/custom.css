@@ -231,6 +231,17 @@
   }
 }
 
+/* Clase para aplicar la animación neon al robot */
+.robot-neon,
+svg.robot-neon,
+.featureSvg.robot-neon {
+  animation: neonBlink 2s ease-in-out infinite !important;
+  -webkit-animation: neonBlink 2s ease-in-out infinite !important;
+  -moz-animation: neonBlink 2s ease-in-out infinite !important;
+  -o-animation: neonBlink 2s ease-in-out infinite !important;
+  cursor: pointer;
+}
+
 /* Footer social links hover effect */
 .footer-social-link:hover {
   color: #41e2b8 !important;

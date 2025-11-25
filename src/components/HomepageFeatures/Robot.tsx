@@ -46,16 +46,14 @@ const RobotEyeTracking = ({ className, style }: RobotEyeTrackingProps) => {
 				...style,
 			}}
 		>
-			<svg 
-				style={{ 
-					margin: 'auto',
-					animation: 'neonBlink 2s ease-in-out infinite',
-					cursor: 'pointer'
-				}} 
-				xmlns="http://www.w3.org/2000/svg" 
-				viewBox="0 0 500 500" 
-				className={className}
-			>
+		<svg 
+			style={{ 
+				margin: 'auto'
+			}} 
+			xmlns="http://www.w3.org/2000/svg" 
+			viewBox="0 0 500 500" 
+			className={className ? `${className} robot-neon` : 'robot-neon'}
+		>
 				<g ref={eyeBallRef} transform="matrix(1.283773, 0, 0, 1.268132, -60.945837, 126.346843)" className="eyeball">
 					{/* Todos los paths y elementos del SVG */}
 					{/* ... (contenido completo del SVG que proporcionaste) ... */}
