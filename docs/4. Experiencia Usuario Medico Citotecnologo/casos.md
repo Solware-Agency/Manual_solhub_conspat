@@ -1,5 +1,5 @@
 ---
-sidebar_label: "3.1 Casos"
+sidebar_label: "4.1 Casos"
 sidebar_position: 2
 ---
 
@@ -101,7 +101,7 @@ Si seleccionas la opción “Generar”, podrás generar un reporte del caso mé
 
 #### Citologia Positiva
 
-- Si la citologia es positiva, Tendras que esperar que el usuario médico onwer, apruebe la solicitud
+- Si la citologia es positiva, Tendras que esperar que el usuario médico owner, apruebe la solicitud
 ![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/13.webp)
 
 - SI todavia no lo ha aprovado, solo podras revisar el documento:

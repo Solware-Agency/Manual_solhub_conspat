@@ -1,6 +1,6 @@
 ---
-sidebar_label: "4.2 Ajustes"
-sidebar_position: 4
+sidebar_label: "6.5 Ajustes"
+sidebar_position: 5
 ---
 
 # Ajustes

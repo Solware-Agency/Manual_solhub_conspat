@@ -1,5 +1,5 @@
 ---
-sidebar_label: "3.1 Casos"
+sidebar_label: "6.2 Casos"
 sidebar_position: 2
 ---
 
