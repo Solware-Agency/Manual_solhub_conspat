@@ -2,3 +2,96 @@
 sidebar_label: "6.1 Inicio"
 sidebar_position: 1
 ---
+
+# Inicio
+
+### -Ubicación en la interfaz: 
+Desde el panel principal, selecciona “Inicio” en el menú lateral.
+![Inicio](/img/img_solhub/2-exp.med.owner.5.1.inicio/1.webp)
+
+## -Objetivo: 
+Proporcionar al usuario propietario una vista general del rendimiento del laboratorio en tiempo real, incluyendo métricas financieras, casos registrados y estado del sistema.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/0.webp)
+
+
+### -Funciones y elementos principales del módulo “Inicio”:
+
+- Sección de Bienvenida.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/2.webp)
+
+Selecciónalo para visualizar con más detalles el resumen de los ingresos, y la distribución por sede
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/11.webp)
+
+Igualmente podrás visualizar gráficamente la tendencia mensual.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/11.1.webp)
+
+- Ingresos del mes: monto acumulado del mes actual.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/3.webp)
+
+Si seleccionas esta sección, aparecerá la siguiente información:
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/4.webp)
+
+- Número de casos registrados: total de casos en el sistema.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/5.webp)
+
+Si seleccionas esta sección, verás con más detalles el número de casos registrados:
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/6.webp)
+
+Además aparecerá un resumen de casos, la distribución por tipo de examen, y un listado con los médicos tratantes.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/7.webp)
+
+- Gráfico de ganancias: Representa las ganancias del mes actual, con desglose por sede.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/8.webp)
+
+Selecciona el gráfico para más información.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/9.webp)
+
+Igualmente, podras ver una comparación de los ingresos por sede
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/9.1.webp)
+
+- Tendencia de ventas: Gráfico mensual que muestra el comportamiento de las ventas a lo largo del año.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/10.webp)
+
+- Médicos tratantes: listado de médicos que más casos han tratado.
+![texto alternativo](/img/img_solhub/2-exp.med.owner.5.1.inicio/12.webp)
+
+- Estudios más frecuentes: tipos de estudios con mayor número de casos (ej. Biopsia, Citología...).
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/13.webp)
+
+- Estado del sistema: casos incompletos, pagos pendientes y porcentaje de progreso.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/13.1.webp)
+ 
+
+### -Pasos para navegar por el módulo Inicio:
+ 
+1. Haz clic en el módulo “Inicio”.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/14.webp)
+
+2. Revisa los indicadores principales (ingresos, casos, tendencias, y la distribución por sede).
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/15.webp)
+
+3. Si deseas más detalle: 
+
+Selecciona en “Médicos tratantes” para ir al módulo Análisis → Estadísticas.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/16.webp)
+
+Podrás visualizar la tendencia de los ingresos, y la distribución por sede.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/17.webp)
+
+Selecciona “Estudios más frecuentes” para ver distribución e ingresos por tipo de examen.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/18.webp)
+
+Podrás observar los tipos de exámenes, con sus ingresos y distribuciones.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/19.webp)
+
+Selecciona “Ver Estadísticas” para más detalles.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/20.webp)
+
+Observaras casos incompletos, pagos pendientes y porcentajes de avance.
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/21.webp)
+
+Por ultimo, en la parte superior de la esquina derecha, podras filtrar por día, mes, o año para visualizar el resumen de ingresos, casos, entre otros...; del día o mes seleccionado
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/22.webp)
+
+- Ejemplo:
+![Dashboard](/img/img_solhub/2-exp.med.owner.5.1.inicio/23.webp)

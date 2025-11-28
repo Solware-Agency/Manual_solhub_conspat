@@ -6,7 +6,7 @@ sidebar_position: 2
 # Casos
 
 ### -Ubicación en la interfaz:
-Selecciona "Registros" en el menú lateral.
+Selecciona "Casos" en el menú lateral.
 ![Dashboard](/img/img_solhub/exp.med.ct.4.1.casos/0.webp)
 
 ### -Objetivo:
